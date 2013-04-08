@@ -3,7 +3,7 @@
 
 AUTHOR = u'ksenish'
 SITENAME = u'Siberian Code'
-SITEURL = ''
+SITEURL = 'ksenish.github.io'
 
 TIMEZONE = 'Europe/Paris'
 THEME = "/Users/ksenish/repo/ksenish.github.io/pelican/Ksenia-subtle"
@@ -17,7 +17,7 @@ DEFAULT_LANG = u'en'
 #           ('You can modify those links in your config file', '#'),)
 
 # Social widget
-SOCIAL = (('twitter', 'twitter.com/ksenish'),
-          ('github', 'github.com/ksenish'),)
+# SOCIAL = (('twitter', 'twitter.com/ksenish'),
+#           ('github', 'github.com/ksenish'),)
 
 DEFAULT_PAGINATION = True
