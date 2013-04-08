@@ -20,4 +20,4 @@ DEFAULT_LANG = u'en'
 # SOCIAL = (('twitter', 'twitter.com/ksenish'),
 #           ('github', 'github.com/ksenish'),)
 
-DEFAULT_PAGINATION = True
+DEFAULT_PAGINATION = False
