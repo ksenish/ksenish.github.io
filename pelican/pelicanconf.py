@@ -17,7 +17,8 @@ DEFAULT_LANG = u'en'
 #           ('You can modify those links in your config file', '#'),)
 
 # Social widget
-# SOCIAL = (('twitter', 'twitter.com/ksenish'),
-#           ('github', 'github.com/ksenish'),)
+SOCIAL = (('twitter', 'twitter.com/ksenish'),
+          ('github', 'github.com/ksenish'),
+          ('facebook', 'facebook.com/ksenish'))
 
 DEFAULT_PAGINATION = False
