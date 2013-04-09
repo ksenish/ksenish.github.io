@@ -9,7 +9,9 @@ TIMEZONE = 'Europe/Paris'
 THEME = "/Users/ksenish/repo/ksenish.github.io/pelican/Ksenia-subtle"
 
 DEFAULT_LANG = u'en'
-
+DISQUS_SITENAME = "ksenia"
+GITHUB_URL = "github.com/ksenish"
+TWITTER_USERNAME = "ksenish"
 # # Blogroll
 # LINKS =  (('Pelican', 'http://docs.notmyidea.org/alexis/pelican/'),
 #           ('Python.org', 'http://python.org'),
