@@ -14,7 +14,7 @@ DELETE_OUTPUT_DIRECTORY = True
 # Uncomment following line for absolute URLs in production:
 #RELATIVE_URLS = False
 
-#DISQUS_SITENAME = ""
+DISQUS_SITENAME = "ksenia"
 GOOGLE_ANALYTICS = "UA-39956412-1"
 GITHUB_URL = "github.com/ksenish"
 TWITTER_USERNAME = "ksenish"
