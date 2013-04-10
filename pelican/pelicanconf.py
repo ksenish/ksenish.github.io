@@ -23,4 +23,4 @@ SOCIAL = (('twitter', 'twitter.com/ksenish'),
           ('github', 'github.com/ksenish'),
           ('facebook', 'facebook.com/ksenish'))
 
-DEFAULT_PAGINATION = False
+DEFAULT_PAGINATION = 10
