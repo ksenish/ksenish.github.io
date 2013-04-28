@@ -4,7 +4,7 @@ Tags: companies, facebook, hackathon
 Category: hackbright
 Slug: fb-hackathon
 Author: ksenish
-Summary: Facebook and the Gates Foundation HackEd 2.0 hackathon
+Summary: Today was an exciting day, because it was my first hackathon! Facebook and the Gates Foundation HackEd 2.0 is a hackathon dedicated to creating apps that help students, especially low income and first generation students, to get into and stay in college as well as to provide support after. You can read more about it in <a href="http://www.nytimes.com/2013/04/08/us/hackathons-to-create-education-apps.html?smid=tw-share&_r=0">yesterday's article in the NYTimes</a>.
 
 Today was an exciting day, because it was my first hackathon! Facebook and the Gates Foundation HackEd 2.0 is a hackathon dedicated to creating apps that help students, especially low income and first generation students, to get into and stay in college as well as to provide support after. You can read more about it in <a href="http://www.nytimes.com/2013/04/08/us/hackathons-to-create-education-apps.html?smid=tw-share&_r=0">yesterday's article in the NYTimes</a>.
 

@@ -4,7 +4,8 @@ Tags: hackbright
 Category: hackbright
 Slug: hackbright
 Author: ksenish
-Summary: Halfway through Hackbright, I started a blog	
+Summary: Hi everyone, my name is Ksenia and I am a student at Hackbright. Hackbright is an intensive 10-week program that helps women to become software engineers. Everyone comes from different backgrounds - we have bankers, journalists, scientists and more. As for me, I grew up in Siberia as a daughter of fur traders (wat? I know, right?) and came to the US to study Econ and Political Science, which, sadly, turned out to not be fantastic when it came to job prospects. Since I have always loved working on computers, I wanted to explore opportunities of becoming a developer, and this is where Hackbright comes into play. 
+
 
 Hi everyone, my name is Ksenia and I am a student at Hackbright. Hackbright is an intensive 10-week program that helps women to become software engineers. Everyone comes from different backgrounds - we have bankers, journalists, scientists and more. As for me, I grew up in Siberia as a daughter of fur traders (wat? I know, right?) and came to the US to study Econ and Political Science, which, sadly, turned out to not be fantastic when it came to job prospects. Since I have always loved working on computers, I wanted to explore opportunities of becoming a developer, and this is where Hackbright comes into play. 
 

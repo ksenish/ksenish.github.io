@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+        <title>My Hackbright Project</title>
+        <meta charset="utf-8" />
+        <link rel="stylesheet" href="./theme/css/main.css" type="text/css" />
+   
+
+        <!--[if IE]>
+                <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+
+        <!--[if lte IE 7]>
+                <link rel="stylesheet" type="text/css" media="all" href="./css/ie.css"/>
+                <script src="./js/IE8.js" type="text/javascript"></script><![endif]-->
+
+        <!--[if lt IE 7]>
+                <link rel="stylesheet" type="text/css" media="all" href="./css/ie6.css"/><![endif]-->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-39956412-1']);
+  _gaq.push(['_setDomainName', 'github.io']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+</head>
+
+<body id="index" class="home">
+<a href="http://github.com/ksenish">
+<img style="position: absolute; top: 0; right: 0; border: 0;" src="http://s3.amazonaws.com/github/ribbons/forkme_right_red_aa0000.png" alt="Fork me on GitHub" />
+</a>
+        <header id="banner" class="body">
+                <h1><a href=".">Siberian Code </a></h1>
+                <nav><ul>
+                                                                                                    <li class="active"><a href="./category/hackbright.html">hackbright</a></li>
+                                    <li ><a href="./category/thoughts.html">thoughts</a></li>
+                                </ul></nav>
+        </header><!-- /#banner -->
+        <section id="content" class="body">
+  <article>
+    <header>
+      <h1 class="entry-title">
+        <a href="project.html" rel="bookmark"
+           title="Permalink to My Hackbright Project">My Hackbright Project</a></h1>
+      <a href="http://twitter.com/share" class="twitter-share-button" data-count="horizontal" data-via="ksenish">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+    </header>
+
+    <div class="entry-content">
+      <footer class="post-info">
+        <abbr class="published" title="2013-04-28T00:00:00">
+                Sun 28 April 2013
+        </abbr>
+
+                <address class="vcard author">
+                By <a class="url fn" href="./author/ksenish.html">ksenish</a>
+        </address>
+        <p>In <a href="./category/hackbright.html">hackbright</a>. </p>
+<p>tags: <a href="./tag/hackbright.html">hackbright</a><a href="./tag/projects.html">projects</a></p></footer><!-- /.post-info -->      <p>About two weeks ago, we finished our official curriculum at Hackbright, and everyone started to work on their personal projects. At that time, the San Francisco International Film Festival's program was announced. I have always been interested in film, especially French cinema, and I decided I wanted to work on a project that combined my interest in data, machine learning, and film. I mentioned this to one of my teachers, Christian, and he suggested that I create a movie prediction algorithm (and eventually assemble into a web app), based on a singular value decomposition (SVD). My first question: singular what? Christian explained it in detail to me. In short, it is a concept in linear algebra. At this point, my first intention was to run away and hide. No, don't get me wrong, I actually enjoy math. I have taken 2 semesters of Calculus, semester of Statistics and another semester of Econometrics in school. But recreating a complex math concept in an algorithm in python when I just started coding 5 weeks ago sounded extremely challenging. Oh, don't worry, that's not going to be the hardest part, said Christian. What is going to be the hardest part then? Make it work on a dataset of 10 million ratings. 10 MILLION?! That's 10,000,000! IT WILL EAT YOUR MEMORY, said Christian. Oh, and it did.</p>
+<p>My first challenge was to understand SVD since I had never heard of it before. There are several papers on the Internet (<a href = "http://sifter.org/~simon/journal/20061211.html">here is one example</a>), from way back in time to the 2006 Netflix Challenge that attempt to describe how SVD works. I also looked at scientific applications of SVD, and to my surprise I found out that usually SVD works as a single function and ships with all standard scientific packages. But I wanted to rewrite it from scratch and make it work. So off I went.</p>
+<p>Right now my algorithm is working correctly, and I am working with Redis and the web portion of the project. I hope to finish by the end of this week and prepare a tutorial that explains SVD in detail. </p>
+    </div><!-- /.entry-content -->
+        <div class="comments">
+      <h2>Comments !</h2>
+      <div id="disqus_thread"></div>
+      <script type="text/javascript">
+        var disqus_identifier = "project.html";
+        (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = 'http://ksenia.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+        })();
+      </script>
+    </div>
+    
+  </article>
+</section>
+        <section id="extras" class="body">
+                                <div class="social">
+                        <h2>social</h2>
+                        <ul>
+                            
+                                                    <li><a href="twitter.com/ksenish">twitter</a></li>
+                                                    <li><a href="github.com/ksenish">github</a></li>
+                                                    <li><a href="facebook.com/ksenish">facebook</a></li>
+                                                </ul>
+                </div><!-- /.social -->
+                </section><!-- /#extras -->
+
+        <footer id="contentinfo" class="body">
+
+        </footer><!-- /#contentinfo -->
+
+<script type="text/javascript">
+    var disqus_shortname = 'ksenia';
+    (function () {
+        var s = document.createElement('script'); s.async = true;
+        s.type = 'text/javascript';
+        s.src = 'http://' + disqus_shortname + '.disqus.com/count.js';
+        (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+    }());
+</script>
+</body>
+</html>
